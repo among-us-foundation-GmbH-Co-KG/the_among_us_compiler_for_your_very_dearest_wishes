@@ -13,3 +13,8 @@ the among us compiler for your very dearest wishes is an exelent solution for th
 2. (Optional) add the location of the AmongUsLanguage.exe (Windows) or the AmongUsLanguage binary (Linux) to your path.
 3. Create a script.auiabsbhhhhhtlircpuimldoioeppppppp file (the only possible name in the among us programming language).
 4. Run the program by typing the command: `AmongUsLanguage`
+
+
+**The linker:**
+
+Run `linker.py [files] > executable.sh` to create an executable shell script that executes the files in the given order.
