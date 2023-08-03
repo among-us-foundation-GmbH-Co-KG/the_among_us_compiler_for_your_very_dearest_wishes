@@ -4,7 +4,7 @@ the among us compiler for your very dearest wishes is an exelent solution for th
 > **How to use:**
 
 1. **Create a python file** which imports the compiler.py. You can import the libraries too.
-2. **Write your code** by unsing the compiler's and libraries' functions and printing their output to the console (Consoleoutput = Compiler output!).
+2. **Write your code** by unsing the compiler's and libraries' functions and printing their output to the console (Console output = Compiler output!).
 3. **Compile your code** using the following command `python path/to/program.py > path/to/script.auiabsbhhhhhtlircpuimldoioeppppppp`.
 
 **In case you have not installed the among us programming language:**
