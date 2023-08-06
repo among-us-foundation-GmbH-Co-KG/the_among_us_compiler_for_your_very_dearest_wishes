@@ -22,4 +22,7 @@ Run `linker.py [files] > executable.sh` to create an executable shell script tha
 **FAQ:**
 
 *Q:* Are you going to add windows support for your linker?
-*A:* We are thinking about adding a ps-compatible version of the linker in the future but for now, windows users have to resort to vms. We recommend using **[WSL](https://learn.microsoft.com/en-us/windows/wsl/install)** or **[Docker](https://www.docker.com/)**
+*A:* We are thinking about adding a ps-compatible version of the linker in the future but for now, windows users have to resort to vms. We recommend using **[WSL](https://learn.microsoft.com/en-us/windows/wsl/install)** or **[Docker](https://www.docker.com/)**.
+
+**External, useful links:**
+- [Amongus language documentation/wiki.](http://esolangs.org/wiki/AMONGUSISABIGSUSSYBAKAHAHAHAHAHATHISLANGUAGEISREALLYCOOLPLEASEUSEITMYLIFEDEPENDSONITORELSEPLSPLSPLSPLSPLSPLSPLSkahyghdfhm)
