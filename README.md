@@ -18,3 +18,8 @@ the among us compiler for your very dearest wishes is an exelent solution for th
 **The linker:**
 
 Run `linker.py [files] > executable.sh` to create an executable shell script that executes the files in the given order.
+
+**FAQ:**
+
+*Q:* Are you going to add windows support for your linker?
+*A:* We are thinking about adding a ps-compatible version of the linker in the future but for now, windows users have to resort to vms. We recommend using **[WSL](https://learn.microsoft.com/en-us/windows/wsl/install)** or **[Docker](https://www.docker.com/)**
