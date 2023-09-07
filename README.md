@@ -11,7 +11,7 @@ the among us compiler for your very dearest wishes is an exelent solution for th
 1. Download the language from here: https://github.com/bytespacegames/AMONGUSISABIGSUSSYBAKAHAHAHAHAHATHISLANGUAGEISREALLYCOOLPLEASE/releases/tag/Release
    or clone the repository using: `git clone https://github.com/bytespacegames/AMONGUSISABIGSUSSYBAKAHAHAHAHAHATHISLANGUAGEISREALLYCOOLPLEASE.git`.
 2. (Optional) add the location of the AmongUsLanguage.exe (Windows) or the AmongUsLanguage binary (Linux) to your path.
-3. Create a script.auiabsbhhhhhtlircpuimldoioeppppppp file (the only possible name in the among us programming language).
+3. Create a script.auiabsbhhhhhtlircpuimldoioeppppppp file (the only possible filename in the among us programming language).
 4. Run the program by typing the command: `AmongUsLanguage`
 
 
